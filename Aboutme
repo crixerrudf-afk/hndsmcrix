@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crix's Fernandez - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .profile-img {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+            border: 3px solid #007BFF;
+            background: transparent; /* Ensures transparent background is respected */
+        }
+        h1 {
+            color: #007BFF;
+            margin: 0;
+        }
+        h2 {
+            color: #007BFF;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+            padding: 5px;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .skills-list li {
+            background: #000000;
+            color: rgb(255, 255, 255);
+            padding: 8px 15px;
+            border-radius: 20px;
+        }
+        .project {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #73daea;
+            border-left: 4px solid #df2e0f;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #000000;
+        }
+        /* Responsive adjustments for the image */
+        @media (monochrome: 24px) {
+                 .profile-img {
+         width: 100px;  /* Change this number (e.g., 80px for even smaller) */
+         height: 100px; /* Match the width for a perfect circle */
+         /* Other properties stay the same */
+     }
+     
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="bg1.99.jpg.jpg" alt="" class="">
+            <h1>Crix Fernandez</h1>
+            <p>Web Developer & Designer | Email: crixerrudf@gmail.com | Phone: 09918022109 | LinkedIn: linkedin.com/in/johndoe</p>
+        </header>
+
+        <section>
+            <h2>Introduction</h2>
+            <p>Hi, I'm Crix Errud Fernandez 19 year-old individual from Tayug, Pangasinan known for his passion, determination, and forward-thinking mindset.Crix is not only focused on personal growth but also aims to contribute positively to the world around him. Whether in academics, work, or community involvement, he strives to bring creativity and excellence to everything he does. His background, experiences, and strong sense of purpose serve as the foundation for his ambitions and future goals.</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul class="skills-list">
+                <li>HTML5 & CSS3</li>
+                <li>JavaScript (ES6+)</li>
+                <li>Python</li>
+                <li>Simple CSS Code</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Basketball: Basketball is more than just a game for me it is a passion, a teacher, and a way of life. Every time I step onto the court, I feel a sense of freedom and focus. The sound of the bouncing ball, the rhythm of the game, and the teamwork involved all make me feel alive. It’s where I can express myself, push my limits, and grow stronger not just physically, but mentally and emotionally..</li>
+                <li>Gym: gym is more than just a place to work out it’s a space where I challenge myself, clear my mind, and grow stronger every day. For me, going to the gym is not just about building muscle or improving my physical appearance; it’s about building discipline, confidence, and a better version of myself.</li>
+                <li>Watching Movie's:</li>Every time I sit down to watch a film, I enter a different world where I can feel new emotions, explore new perspectives, and even discover more about myself.</li>
+                <li>Buying Coffee:Every time I buy coffee, it feels like a small act of self-care. Whether it's a hot cup in the morning or an iced brew in the afternoon, that drink gives me a quick boost of energy and a chance to pause.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Project Work</h2>
+            <div class="project">
+                <h3>Crix's Shoe Page</h3>
+                <p> </a><a href="#">github.com/johndoe/ecommerce</a></p>
+            </div>
+            <div class="project">
+                <h3>Personal Web Page</h3>
+                <p> <a href="#">github.com/johndoe/taskapp</a></p>
+            </div>
+            <div class="project">
+                <h3>Personal Space Dashboard</h3>
+                <p> <a href="#">github.com/johndoe/blog</a></p>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; @INSTAGRAM: hndsm.cr1x | Contact Me</p>
+        </footer>
+    </div>
+</body>
+</html>
