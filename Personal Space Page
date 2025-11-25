@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<!-- saved from url=(0091)file:///C:/Users/ferna/OneDrive/Desktop/FOR%20SCHOOL%20WORKS%20IT/Crix%20Company%20(1).html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial">
+    <link rel="icon" content="image/x-icon" href="file:///C:/Users/ferna/Downloads/bg1.png" <title=""></head><body>Personal Shape - Creative Designer
+    <link href="./Crix Company (1)_files/jerstyle-2.css.css" rel="stylesheet">
+
+
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <div class="logo">Crix Fernandez Personal Website</div>
+            <ul class="nav-links">
+                <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#home">Home</a></li>
+                <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#about">About Crix</a></li>
+                <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#portfolio">Hobby</a></li>
+                <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#contact">Contact</a></li>
+            </ul>
+            <div class="mobile-menu-toggle" id="mobileMenuToggle">
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <ul class="mobile-nav-links">
+            <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#home">Home</a></li>
+            <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#about">About Crix</a></li>
+            <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#portfolio">Portfolio</a></li>
+            <li><a href="file:///C:/Users/ferna/Downloads/index-2.html#contact">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="floating-shapes">
+            <div class="shape shape-1"></div>
+            <div class="shape shape-2"></div>
+            <div class="shape shape-3"></div>
+            <div class="shape shape-4"></div>
+            <div class="shape shape-5"></div>
+            <div class="shape shape-6"></div>
+        </div>
+        <div class="hero-content">
+            <div class="hero-subtitle">WELCOME TO MY WEBSITE</div>
+            <h1>Hi I'm Crix Fernandez</h1>
+        </div>
+        <div class="scroll-indicator" onclick="document.getElementById(&#39;about&#39;).scrollIntoView()"></div>
+    </section>
+
+    <!-- About Section -->
+<section id="about" class="about">
+    <div class="container">
+        <h2 class="section-title fade-in">All About Crix</h2>
+        <div class="about-content">
+            <div class="about-images-wrapper">
+                <div class="about-image" style="background-image: url(&#39;bg1.jpg&#39;);"></div>
+            <div class="about-text slide-in-left">
+                <h3>Crix Experiences</h3>
+                <p>Hi! My name is Crix Errud Fernandez, 19 years old and im from Pangasinan, 2nd year college BSIT/Information Technology.
+
+I am an experienced model with a stong background in fashion, commercial, and fitness modeling.
+
+Competing in pageants has taught me discipline, grace inder pressure, and my community with pride. My goal is to represent with integrity inspire with compassion, and lead with confidence both on and off the stage..
+                </p>
+            </div>
+        </div>
+    </div>
+</div></section>
+                    <p></p>
+                    <div class="skills">
+                        <span class="skill-tag">Personal &amp; Motivational Style</span>
+                        <span class="skill-tag">Simple Stlye</span>
+                        <span class="skill-tag">Web Designer</span>
+                        <span class="skill-tag">Pageant Experienced</span>
+                        <span class="skill-tag">Coding HTML &amp; CSS</span>
+                        <span class="skill-tag">Design Systems</span>
+                    </div>
+                
+            
+        
+    
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <h2 class="section-title fade-in">Featured Work</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <div class="portfolio-content">
+                        <h4>Skills</h4>
+                        <p>A modern, responsive e-commerce solution with focus on user experience and conversion optimization. Built with scalability and performance in mind.</p>
+                        <div class="portfolio-tech">
+                            <span class="tech-tag">React</span>
+                            <span class="tech-tag">Node.js</span>
+                            <span class="tech-tag">MongoDB</span>
+                            <span class="tech-tag">Stripe</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <div class="portfolio-content">
+                        <h4>Hobby</h4>
+                        <p>My hobbies include playing basketball, going to the gym,and going rides to relax and clear my mind, I also love watching movie's in my free time it helps me unwind and find inspriration from different stories and characters.</p>
+                        <div class="portfolio-tech">
+                            <span class="tech-tag">Basketball</span>
+                            <span class="tech-tag">Gym</span>
+                            <span class="tech-tag">Rides</span>
+                            <span class="tech-tag">Watching Movie's</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <div class="portfolio-content">
+                        <h4>Coding HTML &amp; CSS</h4>
+                        <p>I enjoy building personal projects and improving my skills in web layout,styling, and design custmazation.Through hands on practice.</p>
+                        <div class="portfolio-tech">
+                            <span class="tech-tag">HTML</span>
+                            <span class="tech-tag">CSS</span>
+                            <span class="tech-tag">JavaScript</span>
+                            <span class="tech-tag">Personal Website</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <div class="portfolio-content">
+                        <h4>Web Designer</h4>
+                        <p>Designing a personal page is not just about putting information online; it’s about creating a user-friendly experience. As a web designer, I focus on using clean layouts, readable fonts, consistent color schemes, and mobile-responsive design. I also make sure the site loads quickly and is easy to navigate.</p>
+                        <div class="portfolio-tech">
+                            <span class="tech-tag">Consistent</span>
+                            <span class="tech-tag">Clean layouts</span>
+                            <span class="tech-tag">Readable fonts</span>
+                            <span class="tech-tag">HTML5</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image"></div>
+                    <div class="portfolio-content">
+                        <h4>Design System</h4>
+                        <p></p>
+                        <div class="portfolio-tech">
+                            <span class="tech-tag">Design Principles</span>
+                            <span class="tech-tag">Style Guide</span>
+                            <span class="tech-tag">UI Components</span>
+                            <span class="tech-tag">Code Guidlines</span>
+                        </div>
+                    </div>
+                </div>
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="contact-floating-shapes">
+            <div class="contact-shape contact-shape-1"></div>
+            <div class="contact-shape contact-shape-2"></div>
+            <div class="contact-shape contact-shape-3"></div>
+            <div class="contact-shape contact-shape-4"></div>
+            <div class="contact-shape contact-shape-5"></div>
+            <div class="contact-shape contact-shape-6"></div>
+        </div>
+        <div class="container">
+            <div class="contact-content">
+                <h2 class="section-title fade-in">Let's Work Together</h2>
+                <p class="fade-in"></p>
+                <form class="contact-form fade-in">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="name" placeholder="Enter your full name" required="">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="email.com" required="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Contact No.</label>
+                        <input type="text" id="subject" name="subject" placeholder="Your Number" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" rows="6" placeholder="Tell me about your project..." required=""></textarea>
+                    </div>
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section></div></div></section></body></html>
